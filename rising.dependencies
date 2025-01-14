@@ -8,9 +8,8 @@
     "target_path": "kernel/xiaomi/cepheus"
   },
   {
-    "remote"      : "github",
     "repository"  : "yaap/hardware_xiaomi",
-    "branch"      : "fifteen",
-    "target_path" : "hardware/xiaomi"
+    "target_path" : "hardware/xiaomi",
+    "branch"      : "fifteen-cepheus"
   },
 ]
